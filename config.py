@@ -46,7 +46,7 @@ ACTIVE_CHECK_RETRY_DELAY = 10 # Base delay for retrying active check
 
 # --- LinkedIn Search Configuration ---
 LINKEDIN_SEARCH_QUERIES = ["it support", "full stack web developer", "application support", "cybersecurity analyst", "fresher developer"]
-LINKEDIN_LOCATION = "Singapore"
+LINKEDIN_LOCATION = "India"
 LINKEDIN_GEO_ID = 102454443 # Singapore
 LINKEDIN_JOB_TYPE = "F" # Full-time
 LINKEDIN_JOB_POSTING_DATE = "r86400" # Past 24 hours
